@@ -1,14 +1,18 @@
 import React from 'react'
-import  Header from '@/components/Header'
 import HeroSection from '@/components/Hero'
+import Header from '@/components/Header'
 
 const page = () => {
   return (
-     <>
-     <Header/>
-     <HeroSection/>
-     </>
+    <div>
+      <>
+      <Header/>
+      <HeroSection/>
+      </>
+
+
+    </div>
   )
 }
 
-export default page;
+export default page

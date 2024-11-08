@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:wght@400;700&family=Nunito+Sans:wght@400;700&display=swap');
+
 .font-rye {
     font-family: 'Rye', cursive;
   }
+
+  
